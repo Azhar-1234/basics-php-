@@ -19,7 +19,7 @@
 	// $Country = "Bangladesh";
 	// $$Country = "chittagong";
 	// $$$Country = "feni";
-	// echo $Bangladesh;
+	// echo $Bangladesh;//chittangog
 	// echo $chittagong;
 	// $5a = 3;
 	// echo $5a;//invalide variable 5

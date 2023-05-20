@@ -31,7 +31,16 @@
 	// 	}
 	// 	echo $i;
 	// }
-	$i = true;
-	if ($i==1) {
-		echo "zero";
+// 	$i = true;
+// 	if ($i==1) {
+// 		echo "zero";
+// 	}
+	$name ="ifat";
+
+	for($i=0; $i<=strlen($name);$i++)
+	{
+		if($name[$i]=="f")
+	    {
+		echo $i;
+	    }
 	}
